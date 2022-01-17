@@ -1,3 +1,11 @@
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to bottom right, #36d1dc, #5b86e5);
+}
+
 #email {
   font-size: 35px;
   color: #db1019;
@@ -19,9 +27,15 @@
 }
 
 #mainFrameMenu {
+  background-color: white;
+  border-radius: 20px;
   margin-right: 200px;
 }
 
 #mainFrameContent {
   margin-left: 100px;
+}
+
+.introIcon {
+  font-size: 230px;
 }

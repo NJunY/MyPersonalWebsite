@@ -13,6 +13,15 @@
   color: #0072b1;
 }
 
-#eg1 {
-  color: aqua;
+.mainFrame {
+  margin-top: 10%;
+  margin-left: 5%;
+}
+
+#mainFrameMenu {
+  margin-right: 200px;
+}
+
+#mainFrameContent {
+  margin-left: 100px;
 }

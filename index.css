@@ -22,14 +22,14 @@ body {
 }
 
 .mainFrame {
-  margin-top: 10%;
-  margin-left: 5%;
+  /* margin-top: 10%;
+  margin-left: 5%; */
 }
 
 #mainFrameMenu {
   background-color: white;
   border-radius: 20px;
-  margin-right: 200px;
+  margin-right: 150px;
 }
 
 #mainFrameContent {
@@ -38,4 +38,10 @@ body {
 
 .introIcon {
   font-size: 230px;
+}
+
+.btn:hover {
+  transition-duration: 0.25s;
+  /* background-image: linear-gradient(to bottom right, #bdc3c7, #2c3e50); */
+  color: #3d5be8;
 }
